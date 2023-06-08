@@ -1,1 +1,1 @@
-my first readme
+becoming a full-stack engineer
